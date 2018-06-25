@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Hello World!"
-date:   2016-10-01 23:01:00 -0500
-categories: firstpost
+title: "Hello World!"
+date: 2016-10-01T23:44:21-05:00
+draft: true
 ---
 
 I'm going to attempt to get my website going again. Hopefully
