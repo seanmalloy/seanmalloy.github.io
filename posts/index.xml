@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sean Malloy</title>
+    <link>http://spmalloy.com/posts/</link>
+    <description>Recent content in Posts on Sean Malloy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jun 2018 23:48:06 -0500</lastBuildDate>
+    
+	<atom:link href="http://spmalloy.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Hugo</title>
+      <link>http://spmalloy.com/posts/welcome-to-hugo/</link>
+      <pubDate>Sun, 24 Jun 2018 23:48:06 -0500</pubDate>
+      
+      <guid>http://spmalloy.com/posts/welcome-to-hugo/</guid>
+      <description>Switch from Jekyll to Hugo. Real content coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://spmalloy.com/posts/hello-world/</link>
+      <pubDate>Sat, 01 Oct 2016 23:44:21 -0500</pubDate>
+      
+      <guid>http://spmalloy.com/posts/hello-world/</guid>
+      <description>I&amp;rsquo;m going to attempt to get my website going again. Hopefully you&amp;rsquo;ll see regular posts about Linux, coding, and making in the near future.</description>
+    </item>
+    
+  </channel>
+</rss>
