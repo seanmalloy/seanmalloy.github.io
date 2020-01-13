@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean Malloy</title>
@@ -19,8 +19,7 @@
       
       <guid>http://spmalloy.com/posts/2019-projects-report-card/</guid>
       <description>Here is how I did on my 2019 projects. This was the first year I attempted this. The most important thing I learned is that I need to sign myself up for less projects in 2020 because I tend to spread myself too thin.
- Learn Kubernetes. I give myself an A. This is what I send most of my day doing. So it was pretty easy for me.
- Learn Go Lang.</description>
+  Learn Kubernetes. I give myself an A. This is what I send most of my day doing. So it was pretty easy for me.</description>
     </item>
     
     <item>
@@ -29,9 +28,9 @@
       <pubDate>Sat, 05 Jan 2019 21:31:47 -0600</pubDate>
       
       <guid>http://spmalloy.com/posts/2019-projects/</guid>
-      <description>Inspired by Scott Lowe I am posting my list of projects/goals for 2019. These are the technology skills I&amp;rsquo;d like to improve on this year.
- Learn Kubernetes. I&amp;rsquo;ve been working with Kubernetes for about a year now. But I still have not really sat down and done any serious deep dive studying on this technology yet. My goal is to really dig into Kubernetes this year.
- Learn Go Lang.</description>
+      <description>Inspired by Scott Lowe I am posting my list of projects/goals for 2019. These are the technology skills I&#39;d like to improve on this year.
+  Learn Kubernetes. I&#39;ve been working with Kubernetes for about a year now. But I still have not really sat down and done any serious deep dive studying on this technology yet. My goal is to really dig into Kubernetes this year.
+  Learn Go Lang.</description>
     </item>
     
     <item>
@@ -49,7 +48,7 @@
       <pubDate>Sat, 01 Oct 2016 23:44:21 -0500</pubDate>
       
       <guid>http://spmalloy.com/posts/hello-world/</guid>
-      <description>I&amp;rsquo;m going to attempt to get my website going again. Hopefully you&amp;rsquo;ll see regular posts about Linux, coding, and making in the near future.</description>
+      <description>I&#39;m going to attempt to get my website going again. Hopefully you&#39;ll see regular posts about Linux, coding, and making in the near future.</description>
     </item>
     
   </channel>
