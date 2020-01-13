@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2018 Sean Malloy, all rights reserved</copyright>
-    <lastBuildDate>Sat, 05 Jan 2019 21:31:47 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://spmalloy.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019 Project Report Card</title>
+      <link>http://spmalloy.com/posts/2019-projects-report-card/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://spmalloy.com/posts/2019-projects-report-card/</guid>
+      <description>Here is how I did on my 2019 projects. This was the first year I attempted this. The most important thing I learned is that I need to sign myself up for less projects in 2020 because I tend to spread myself too thin.
+ Learn Kubernetes. I give myself an A. This is what I send most of my day going. So it was pretty easy for me.
+ Learn Go Lang.</description>
+    </item>
     
     <item>
       <title>2019 Projects</title>
