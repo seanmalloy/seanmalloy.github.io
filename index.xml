@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2018 Sean Malloy, all rights reserved</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://spmalloy.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 Projects</title>
+      <link>http://spmalloy.com/posts/2020-projects/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://spmalloy.com/posts/2020-projects/</guid>
+      <description>Inspired by Scott Lowe I am posting my list of projects/goals for 2019. These are the technology skills I&amp;rsquo;d like to improve on this year.
+ Learn To Program Kubernetes Using Go. I&amp;rsquo;ve been working with Kubernetes for a couple of years now. I&amp;rsquo;d like to start going beyond the traditional infra/sysadmin/platform engineer knowledge of k8s. My goal is to learn how to program k8s using Go Lang. I need to learn things like client-go, kube builder, operator-sdk, and kubectl plugins.</description>
+    </item>
     
     <item>
       <title>2019 Project Report Card</title>
@@ -21,16 +31,6 @@
       <description>Here is how I did on my 2019 projects. This was the first year I attempted this. The most important thing I learned is that I need to sign myself up for less projects in 2020 because I tend to spread myself too thin.
  Learn Kubernetes. I give myself an A. This is what I send most of my day doing. So it was pretty easy for me.
  Learn Go Lang.</description>
-    </item>
-    
-    <item>
-      <title>2020 Projects</title>
-      <link>http://spmalloy.com/posts/2020-projects/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://spmalloy.com/posts/2020-projects/</guid>
-      <description>Inspired by Scott Lowe I am posting my list of projects/goals for 2019. These are the technology skills I&amp;rsquo;d like to improve on this year.
- Learn To Program Kubernetes Using Go. I&amp;rsquo;ve been working with Kubernetes for a couple of years now. I&amp;rsquo;d like to start going beyond the traditional infra/sysadmin/platform engineer knowledge of k8s. My goal is to learn how to program k8s using Go Lang. I need to learn things like client-go, kube builder, operator-sdk, and kubectl plugins.</description>
     </item>
     
     <item>
