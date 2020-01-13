@@ -24,6 +24,16 @@
     </item>
     
     <item>
+      <title>2020 Projects</title>
+      <link>http://spmalloy.com/posts/2020-projects/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://spmalloy.com/posts/2020-projects/</guid>
+      <description>Inspired by Scott Lowe I am posting my list of projects/goals for 2019. These are the technology skills I&amp;rsquo;d like to improve on this year.
+ Learn To Program Kubernetes Using Go. I&amp;rsquo;ve been working with Kubernetes for a couple of years now. I&amp;rsquo;d like to start going beyond the traditional infra/sysadmin/platform engineer knowledge of k8s. My goal is to learn how to program k8s using Go Lang. I need to learn things like client-go, kube builder, operator-sdk, and kubectl plugins.</description>
+    </item>
+    
+    <item>
       <title>2019 Projects</title>
       <link>http://spmalloy.com/posts/2019-projects/</link>
       <pubDate>Sat, 05 Jan 2019 21:31:47 -0600</pubDate>
@@ -50,16 +60,6 @@
       
       <guid>http://spmalloy.com/posts/hello-world/</guid>
       <description>I&amp;rsquo;m going to attempt to get my website going again. Hopefully you&amp;rsquo;ll see regular posts about Linux, coding, and making in the near future.</description>
-    </item>
-    
-    <item>
-      <title>2020 Projects</title>
-      <link>http://spmalloy.com/posts/2020-projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://spmalloy.com/posts/2020-projects/</guid>
-      <description>Inspired by Scott Lowe I am posting my list of projects/goals for 2019. These are the technology skills I&amp;rsquo;d like to improve on this year.
- Learn To Program Kubernetes Using Go. I&amp;rsquo;ve been working with Kubernetes for a couple of years now. I&amp;rsquo;d like to start going beyond the traditional infra/sysadmin/platform engineer knowledge of k8s. My goal is to learn how to program k8s using Go Lang. I need to learn things like client-go, kube builder, operator-sdk, and kubectl plugins.</description>
     </item>
     
   </channel>
