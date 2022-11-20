@@ -4,7 +4,7 @@ date: 2020-01-12T00:00:00-00:00
 draft: false
 ---
 
-Here is how I did on my [2019 projects](https://spmalloy.com/posts/2019-projects). This was the first year I attempted this. The most important thing I learned is that I need to sign myself up for less projects in 2020 because I tend to spread myself too thin.
+Here is how I did on my [2019 projects](https://www.spmalloy.com/posts/2019-projects). This was the first year I attempted this. The most important thing I learned is that I need to sign myself up for less projects in 2020 because I tend to spread myself too thin.
 
 1. **Learn Kubernetes**. I give myself an A. This is what I send most of my day doing. So it was pretty easy for me.
 
