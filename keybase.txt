@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/spmalloy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.spmalloy.com
+  * I am spmalloy (https://keybase.io/spmalloy) on keybase.
+  * I have a public key ASAqUWIhXFoIMWyidti5507AynPE-piu9mBaxOhVR4-CCQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fb6f933a88af06a7535cb19ed3f202d48c54ffb0166dc0c2abb870eafefae0de0a",
+      "host": "keybase.io",
+      "kid": "01202a5162215c5a08316ca276d8b9e74ec0ca73c4fa98aef6605ac4e855478f82090a",
+      "uid": "bfc96c40205968fe9e0ae9270db90719",
+      "username": "spmalloy"
+    },
+    "merkle_root": {
+      "ctime": 1668927955,
+      "hash": "25edd1e4ce53358b14ebf63bb4b25dfc4d1655e42d0a10bdc58418d88b1ebaaa506fd38f0eacfac1b040c8345d270ebe4a0614a255d59953df2fda202ccc25de",
+      "hash_meta": "0acffa7f88a44e734fa6c0aa2fdc841abd6c0d60186143b4f3f4c26dfbeb712c",
+      "seqno": 23584478
+    },
+    "service": {
+      "entropy": "3qjq66oyz0lykvzQ6sg/iD01",
+      "hostname": "www.spmalloy.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1668927981,
+  "expire_in": 504576000,
+  "prev": "f53e4eafa1ecf084a8b9453d24a82e5629ace565bb2dd293a189e8ff1d7100fa",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKlFiIVxaCDFsonbYuedOwMpzxPqYrvZgWsToVUePggkKp3BheWxvYWTESpcCCsQg9T5Or6Hs8ISouUU9JKguVims5WW7LdKToYno/x1xAPrEIBFoC5qBPLTT6/X5ywlxM4ThuUF6hSc5jrBiJ5FcCAb+AgHCo3NpZ8RAMq8NmtIalW6IWyf3SyubFUtkzmSI6GEJ7hztTl9oQyPSk2A1LmHJ0IDBjGi/VHLMsiTWDnTP3WDIAdgG2ArNAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFTHolT2Vaq3hIvrknbu62rcKlF7j9zAL1aeRhq06QYlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spmalloy
+
+==================================================================
