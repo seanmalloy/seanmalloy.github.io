@@ -1,8 +1,8 @@
----
-title: "2019 Projects"
-date: 2019-01-05T21:31:47-06:00
-draft: false
----
++++
+title =  "2019 Projects"
+date =  2019-01-05T21:31:47-06:00
+draft = false
++++
 
 Inspired by [Scott Lowe](https://blog.scottlowe.org) I am posting my list of projects/goals
 for 2019. These are the technology skills I'd like to improve on this year.

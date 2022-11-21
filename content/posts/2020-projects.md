@@ -1,8 +1,8 @@
----
-title: "2020 Projects"
-date: 2020-01-13T00:00:00-00:00
-draft: false
----
++++
+title = "2020 Projects"
+date = 2020-01-13T00:00:00-00:00
+draft = false
++++
 
 Inspired by [Scott Lowe](https://blog.scottlowe.org) I am posting my list of projects/goals
 for 2020. These are the skills I'd like to improve on this year.

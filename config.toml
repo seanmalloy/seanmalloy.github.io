@@ -1,51 +1,69 @@
 baseURL = "https://www.spmalloy.com"
-copyright = "Copyright 2022 Sean Malloy, all rights reserved"
-languageCode = "en-us"
 title = "Sean Malloy"
-theme = "minimal"
+theme = "hugo-coder"
+languageCode = "en-us"
+defaultcontentlanguage = "en"
+copyright = "Copyright 2022 Sean Malloy, all rights reserved"
+
+paginate = 20
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Sean Malloy"
-    description = "Sean Malloy's website. Unix, Linux, code"
-    githubUsername = "seanmalloy"
-    accent = "blue"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    info = "Linux, Code, Maker"
+    description = "Sean Malloy's personal website"
+    keywords = "blog,personal"
+    avatarurl = "images/avatar.png"
+    #gravatar = "john.doe@example.com"
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+    since = 2016
+    enableTwemoji = true
+    colorScheme = "auto"
+    hidecolorschemetoggle = false
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github fa-2x"
     weight = 1
-
-[[menu.main]]
-    url = "/posts/"
-    name = "Posts"
-    weight = 2
-
-#[[menu.main]]
-#    url = "/project/"
-#    name = "Projects"
-#    weight = 3
-
-# Social icons to be shown on the right-hand side of the navigation bar
-# The "name" field should match the name of the icon to be used
-# The list of available icons can be found at http://fontawesome.io/icons/
-
-[[menu.icon]]
-    url = "mailto:spinelli85@gmail.com"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
     url = "https://github.com/seanmalloy/"
-    name = "github"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://twitter.com/spmalloy/"
-    name = "twitter"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter fa-2x"
     weight = 3
+    url = "https://twitter.com/spmalloy/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-2x fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/spmalloy"
+[[params.social]]
+    name = "Mastodon"
+    icon = "fa fa-2x fa-mastodon"
+    weight = 4
+    url = "https://techhub.social/@spmalloy"
+[[params.social]]
+    name = "Keybase"
+    icon = "fa fa-2x fa-keybase"
+    weight = 4
+    url = "https://keybase.io/spmalloy"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about/"
+
